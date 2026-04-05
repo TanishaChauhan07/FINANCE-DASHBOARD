@@ -57,7 +57,7 @@ src/
 │   └── AppContext.jsx         Global state — transactions, role, theme, page
 │
 ├── data/
-│   └── transactions.js        25 mock transactions + category icon map
+│   └── transactions.js        270+ mock transactions + category icon map (Jan 2024 - Apr 2026)
 │
 ├── components/
 │   ├── Sidebar.jsx            Desktop sidebar / mobile bottom nav
