@@ -6,7 +6,7 @@ A modern, fully interactive personal finance dashboard built with React + Vite. 
 
 ## 🔗 Live Demo
 
-[View Live on Vercel]
+[View Live on Vercel] https://finance-dashboard-alpha-ebon.vercel.app/
 
 ---
 
@@ -47,6 +47,7 @@ The project focuses on frontend architecture, UI design quality, component struc
 ---
 
 ## 📁 Project Structure
+```
 src/
 ├── main.jsx                  Entry point
 ├── index.css                 Global styles, CSS variables, dark mode tokens
@@ -63,9 +64,10 @@ src/
 │   └── Topbar.jsx             Page title, role switcher, dark mode, export
 │
 └── pages/
-├── Overview.jsx           Home — KPIs, balance trend, spending split, recent transactions
-├── Transactions.jsx       Full transaction table — net banking style
-└── Insights.jsx           Analytics — charts, breakdowns, month comparisons
+    ├── Overview.jsx           Home — KPIs, balance trend, spending split, recent transactions
+    ├── Transactions.jsx       Full transaction table — net banking style
+    └── Insights.jsx           Analytics — charts, breakdowns, month comparisons
+```
 
 ---
 
@@ -79,7 +81,7 @@ src/
 ### Installation and Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/finance-dashboard.git
+git clone https://github.com/TanishaChauhan07/finance-dashboard.git
 
 # Navigate into the project folder
 cd finance-dashboard
