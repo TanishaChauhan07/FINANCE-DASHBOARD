@@ -19,6 +19,8 @@ A modern, fully interactive personal finance dashboard built with React + Vite. 
 ### Transactions
 ![Transactions](screenshots/transactions.png)
 ![Transactions 2](screenshots/transactionsss.png)
+![Transactions](screenshots/transaction3.png)
+![Transactions](screenshots/transaction4.png)
 
 ### Insights
 ![Insights](screenshots/insights.png)
